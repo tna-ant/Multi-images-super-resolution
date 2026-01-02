@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SuperResApp</string>
+    <string-array name="upscale_rates">
+        <item>2x</item>
+        <item>3x</item>
+        <item>4x</item>
+    </string-array>
+</resources>
